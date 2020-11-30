@@ -1,5 +1,7 @@
 # ivybest
 
+<img src="./src/assets/download.png" alt="screen-shot"/>
+
 ## Project setup
 ```
 npm install
